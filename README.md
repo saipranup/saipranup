@@ -41,7 +41,7 @@ Compared GPM, ROA, and profitability metrics using ratio analysis and Power BI i
 
 - Email: saipranupsho@gmail.com  
 - [LinkedIn](https://www.linkedin.com/in/pranup009)  
-- [Resume](https://github.com/saipranup)
+- [GitHub](https://github.com/saipranup)
 
 ---
 
