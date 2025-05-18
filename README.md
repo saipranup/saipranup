@@ -1,7 +1,7 @@
 # Hi, I'm Sai Pranup Shobanaboina
 
 Graduate Student in Data Analytics at Webster University (May 2025)  
-Based in St. Louis, Missouri | 🇮🇳 Originally from India  
+Based in St. Louis, Missouri | Originally from India  
 Ex-Accenture | IEEE Published | Passionate about solving business problems using data
 
 ---
