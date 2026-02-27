@@ -1,20 +1,17 @@
 # Hi, I'm Sai Pranup Shobanaboina
+Data Analytics Professional | MS in Data Analytics
+Current: Royal Caribbean Group | Previous: Canadian Tire | IEEE Published Researcher
 
-Graduate Student in Data Analytics at Webster University (May 2025)  
-Based in St. Louis, Missouri | Originally from India  
-Ex-Accenture | IEEE Published | Passionate about solving business problems using data
+I am a results-driven Data Analyst passionate about bridging the gap between technical data engineering and executive decision-making. My work focuses on building single-source-of-truth environments that drive revenue and operational efficiency.
 
 ---
 
-## About Me
+## Tech Stack & Expertise
 
-I'm a data analytics professional with hands-on experience in:
-
-- **Machine Learning**: Regression, Classification, Clustering, LSTM, Random Forest
-- **Analytics & BI**: Power BI, Tableau, Excel, SQL
-- **Data Science Tools**: Python, R, Jupyter, RStudio, TensorFlow, Keras
-- **Cloud Platforms**: Azure ML, Google Cloud
-- Strong collaborator with a track record in cross-functional Agile teams
+**Analytics & BI: **Power BI (DAX), Tableau, Advanced Excel, SQL (PostgreSQL, MySQL, SQL Server).
+**Data Science: **Python (Pandas, Scikit-learn, NumPy), R, Statistical Modeling (ANOVA, T-Tests).
+**Engineering: **ETL Pipelines, Data Wrangling, Feature Engineering, Data Normalization.
+**Domain Focus: **Revenue Protection, KPI Development, Root Cause Analysis, Consumer Behavior.
 
 ---
 
@@ -34,6 +31,14 @@ Predicted ride cancellations using Random Forest and engineered geospatial/time 
 
 ### [Pepsi vs. Coke Financial Analysis](https://github.com/saipranup/pepsi-vs-coke-financial-analysis)
 Compared GPM, ROA, and profitability metrics using ratio analysis and Power BI insights.
+
+---
+
+## Professional Snapshot
+
+Royal Caribbean Group (Current): Partnering with Finance VPs to validate corporate KPIs and building defect-tracking BI dashboards using Power BI and SQL to ensure data integrity across the fleet.
+
+Canadian Tire Corporation: Protected $1M+ in weekly revenue through pricing analysis and automated 20+ monthly reports, reducing manual processing time by 70%.
 
 ---
 
