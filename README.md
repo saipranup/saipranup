@@ -1,6 +1,5 @@
 # Hi, I'm Sai Pranup Shobanaboina
-Data Analytics Professional | MS in Data Analytics
-Current: Royal Caribbean Group | Previous: Canadian Tire | IEEE Published Researcher
+Data Analytics Professional | MS in Data Analytics | Current: Royal Caribbean Group | Previous: Canadian Tire | IEEE Published Researcher
 
 I am a results-driven Data Analyst passionate about bridging the gap between technical data engineering and executive decision-making. My work focuses on building single-source-of-truth environments that drive revenue and operational efficiency.
 
