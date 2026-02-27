@@ -9,8 +9,11 @@ I am a results-driven Data Analyst passionate about bridging the gap between tec
 ## Tech Stack & Expertise
 
 Analytics & BI: Power BI (DAX), Tableau, Advanced Excel, SQL (PostgreSQL, MySQL, SQL Server).
+
 Data Science: Python (Pandas, Scikit-learn, NumPy), R, Statistical Modeling (ANOVA, T-Tests).
+
 Engineering: ETL Pipelines, Data Wrangling, Feature Engineering, Data Normalization.
+
 Domain Focus: Revenue Protection, KPI Development, Root Cause Analysis, Consumer Behavior.
 
 ---
